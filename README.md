@@ -5,8 +5,9 @@ Repositório com os arquivos do projeto de frontend Disney Plus Clone
 Este site foi construído usando HTML, CSS e JavaScript puro, sem utilizar qualquer biblioteca em nem uma das etapas !
 
 <p align="center">
-https://media.giphy.com/media/T9KcDBkWHrWJLF2l5Q/giphy.gif
+   <img src="https://media.giphy.com/media/T9KcDBkWHrWJLF2l5Q/giphy.gif" alt="Podcastr" width="150"/>
 </p>
+ 
 
 <h1 align="center">Disney Plus</h1>
 
@@ -33,7 +34,6 @@ https://media.giphy.com/media/T9KcDBkWHrWJLF2l5Q/giphy.gif
 
 The following tools were used in this project:
 
-- [ReactJs](https://pt-br.reactjs.org/)
 - [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript) 
 - [Html](https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element/html/)  
 - [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)  
@@ -42,14 +42,9 @@ The following tools were used in this project:
 
 ```bash
 # Clone this project
-$ git clone https://github.com/Higornmr/Projeto-Pokemon-API
+$ git clone https://github.com/Higornmr/disneyplus-clone
 # Access
-$ cd Projeto-Pokemon-API
-# Install dependencies
-$ yarn or npm 
-# Run the project
-$ yarn start or npm start 
-# The server will initialize in the <http://localhost:3000>
+$ cd disneyplus-clone
 ```
 
 ## :white_check_mark: Requirements ##
