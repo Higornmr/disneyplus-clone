@@ -28,7 +28,7 @@ Este site foi construído usando HTML, CSS e JavaScript puro, sem utilizar qualq
 
  Movies and their trailers
 
- <img src="https://github.com/Higornmr/Projeto-Pokemon-API/blob/master/.github/gif.gif">
+ <img src="https://github.com/Higornmr/disneyplus-clone/blob/master/.github/gif.gif">
 
 ## :rocket: Technologies ##
 
